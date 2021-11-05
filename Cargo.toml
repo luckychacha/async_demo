@@ -11,3 +11,5 @@ futures = { version = "0.3.*" }
 mini-redis = "0.4"
 bytes = "1"
 redis = { version = "0.21.3", features = ["tokio-comp", "tokio-native-tls-comp"] }
+chrono = "0.4"
+crossbeam = "0.8"
